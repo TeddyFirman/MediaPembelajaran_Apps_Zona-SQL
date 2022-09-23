@@ -18,7 +18,7 @@ Aplikasi pertama yang saya develop dengan menggunakan ![Android Studio](https://
 
 <br>
 
-- <h2>- Menu Game Start &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Menu Game Finish</h2> <br> <img src="https://user-images.githubusercontent.com/44187690/191984325-dda5bda1-aed2-4fba-ba38-94b441836715.jpg" width="390" height="250"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/44187690/191984408-9748f628-2b70-4f9e-a0c4-4acd04bb8e2f.jpg" width="390" height="250">
+- <h2>- Menu Game Start &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Menu Game Finish</h2> <br> <img src="https://user-images.githubusercontent.com/44187690/191984325-dda5bda1-aed2-4fba-ba38-94b441836715.jpg" width="300" height="160"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/44187690/191984408-9748f628-2b70-4f9e-a0c4-4acd04bb8e2f.jpg" width="300" height="160">
 
 
 <br>
